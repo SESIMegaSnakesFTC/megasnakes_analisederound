@@ -238,3 +238,18 @@ console.log(perfil); // deve conter apenas o perfil do usuário logado
 ## 📄 Licença
 
 Defina aqui a licença do projeto (ex.: MIT).
+
+
+
+
+
+
+
+
+
+---
+<p align="center">
+  <b>SESI MEGASNAKES • Boituva - SP</b><br>
+  <i>Transformando o mundo através da robótica e da educação.</i>
+</p>
+
